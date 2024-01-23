@@ -1,2 +1,2 @@
 # numpy_notlar-
-numpy kütüphanesini kodlarla açıklayarak anlatmaya çalıştım.
+daha tamamlamasamda numpy kütüphanesini kodlarla açıklayarak anlatmaya çalıştım.
